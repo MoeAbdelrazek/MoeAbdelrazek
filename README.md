@@ -16,4 +16,5 @@ The long-term vision driving this portfolio is to secure a stable, high-paying t
 
 Certifications:
 
-https://coursera.org/share/d150e87e2217320f1be4998c71f6a012
+Google IT Automation With Python: 1st Course - Crash Course in Python
+(https://coursera.org/share/d150e87e2217320f1be4998c71f6a012)
