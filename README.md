@@ -1,16 +1,14 @@
-## Hi there 👋
+##  Meet Moe!
 
-<!--
-**MoeAbdelrazek/MoeAbdelrazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A driven and adaptable learning journey is unfolding here, built with purpose, discipline, and strategic intent. Every project reflects a deeper mission: to create a better future through personal growth and professional transformation, with the ultimate goal of providing a daughter with a world-class education and opportunity.
 
-Here are some ideas to get you started:
+This portfolio evolves through daily study, often exceeding 7 hours, and is backed **as a start** by two professional certifications:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Google IT Automation with Python  
+• Microsoft Python Programming Fundamentals
+
+Each project is crafted from scratch using core Python skills. The work emphasizes clarity, modularity, and real-world relevance—documented with care and designed to have an impact.
+
+The foundation behind this work includes 48 completed engineering courses at Alexandria University, as well as proficiency in multilingual communication (fluent in English and Arabic, intermediate in German, and basic in French). Additionally, I have experience in global collaboration through Engoo and leadership experience in sports. These elements contribute to a strategic mindset, cultural adaptability, and a resilient approach to learning.
+
+The long-term vision driving this portfolio is to secure a stable, high-paying tech role with a strong work-life balance, one that supports family and fuels continued growth in the digital space.
