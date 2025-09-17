@@ -14,4 +14,6 @@ The foundation behind this work includes 48 completed engineering courses at Ale
 The long-term vision driving this portfolio is to secure a stable, high-paying tech role with a strong work-life balance, one that supports family and fuels continued growth in the digital space.
 
 
+Certifications:
+
 https://coursera.org/share/d150e87e2217320f1be4998c71f6a012
