@@ -12,3 +12,6 @@ Each project is crafted from scratch using core Python skills. The work emphasiz
 The foundation behind this work includes 48 completed engineering courses at Alexandria University, as well as proficiency in multilingual communication (fluent in English and Arabic, intermediate in German, and basic in French). Additionally, I have experience in global collaboration through Engoo and leadership experience in sports. These elements contribute to a strategic mindset, cultural adaptability, and a resilient approach to learning.
 
 The long-term vision driving this portfolio is to secure a stable, high-paying tech role with a strong work-life balance, one that supports family and fuels continued growth in the digital space.
+
+
+https://coursera.org/share/d150e87e2217320f1be4998c71f6a012
