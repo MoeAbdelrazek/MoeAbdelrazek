@@ -22,3 +22,6 @@ Google IT Automation With Python: 1st Course - Crash Course in Python
 
 ## 📌 Explore More: How leadership and resilience shaped my tech path
 https://github.com/MoeAbdelrazek/Career-journey.md/blob/main/README.md
+
+##View My Resume
+https://github.com/MoeAbdelrazek/Moe-s-Resume
