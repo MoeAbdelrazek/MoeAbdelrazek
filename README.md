@@ -23,7 +23,7 @@ Duke University: Python Scripting
 https://coursera.org/share/1f033a9c0bcce4318b75eab701db6b86
 
 
-## 📌 Explore More: How leadership and resilience shaped my tech path
+##  Explore More: How leadership and resilience shaped my tech path
 https://github.com/MoeAbdelrazek/Career-journey.md/blob/main/README.md
 
 ##View My Resume
